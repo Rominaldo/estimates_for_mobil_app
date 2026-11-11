@@ -1,0 +1,1 @@
+Prvý commit, aby repozitár estimates_for_mobil_app z istotou fungoval.
